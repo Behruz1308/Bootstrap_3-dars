@@ -1,0 +1,11 @@
+.container{
+    width: 1200px;
+    outline: 1px solid red;
+}
+body{
+    background-color: grey;
+}
+.box{
+    background-color: black;
+    color: white;
+}
